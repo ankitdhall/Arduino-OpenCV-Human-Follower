@@ -1,4 +1,4 @@
-# Arduino-OpenCV-Face-Follower
+# Arduino-OpenCV-Human-Follower
 
 The project uses OpenCV library with python for building an algorithm to detect humans by tracking faces.
 The hardware is based on Arduino microcontroller and an external webcam connected via an intermediate personal computer where all the image processing takes place.
