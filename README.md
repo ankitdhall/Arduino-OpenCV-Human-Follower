@@ -6,4 +6,5 @@ Both the Arduino and the webcam are mounted on a chassis.
 Based on the position and size of the face detected, signals from the computer are serially communicated to the Arduino which in turn controls the bot to move accordingly to keep tracking the human face.
 
 Dependencies: PySerial, OpenCV
+
 Hardware: Arduino Uno, Chassis, webcam
